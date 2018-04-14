@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Root ClearAllTables="true">
+    <Platforms>
+        <Platform Id="1" Name="debug.okcoin.cn">
+            <MinMarketQueryInterval>100</MinMarketQueryInterval>
+            <MinOrderQueryInterval>100</MinOrderQueryInterval>
+            <MinTradeInterval>200</MinTradeInterval>
+            <CashWithdrawalFeeRate>0.005</CashWithdrawalFeeRate>
+            <ApiAverageResponseTime>200</ApiAverageResponseTime>
+            <ApiRules>
+                <ApiRule Id="1" ApiType="buy">
+                    <Url>https://www.debug.okcoin.cn/api/v1/trade.do</Url>
+                    <CurlTimeout>40</CurlTimeout>
+                </ApiRule>
+                <ApiRule Id="2" ApiType="sell">
+                    <Url>https://www.debug.okcoin.cn/api/v1/trade.do</Url>
+                    <CurlTimeout>40</CurlTimeout>
+                </ApiRule>
+                <ApiRule Id="3" ApiType="cancel_order">
+                    <Url>https://www.debug.okcoin.cn/api/v1/cancel_order.do</Url>
+                    <CurlTimeout>40</CurlTimeout>
+                </ApiRule>
+                <ApiRule Id="4" ApiType="fetch_order">
+                    <Url>https://www.debug.okcoin.cn/api/v1/order_info.do</Url>
+                    <CurlTimeout>10</CurlTimeout>
+                </ApiRule>                
+                <ApiRule Id="5" ApiType="fetch_orders">
+                    <Url>https://www.debug.okcoin.cn/api/v1/order_history.do</Url>
+                    <CurlTimeout>10</CurlTimeout>
+                </ApiRule>
+                <ApiRule Id="6" ApiType="fetch_balance">
+                    <Url>https://www.debug.okcoin.cn/api/v1/userinfo.do</Url>
+                    <CurlTimeout>10</CurlTimeout>
+                </ApiRule>
+            </ApiRules>
+            <CoinRules>
+                <CoinRule Id="1" CoinType="btc">
+                    <MinTradingUnit>0.01</MinTradingUnit>
+                    <TransactionFeeRate>0.002</TransactionFeeRate>
+                    <CoinWithdrawalParaChargeType>FloatingRate</CoinWithdrawalParaChargeType>
+                    <CoinWithdrawalPara>0.0</CoinWithdrawalPara>
+                    <MinPriceSize>0.2</MinPriceSize>
+                </CoinRule>
+            </CoinRules>
+        </Platform>
+        <Platform Id="2" Name="debug.btctrade.com">
+            <MinMarketQueryInterval>200</MinMarketQueryInterval>
+            <MinOrderQueryInterval>200</MinOrderQueryInterval>
+            <MinTradeInterval>500</MinTradeInterval>
+            <CashWithdrawalFeeRate>0.004</CashWithdrawalFeeRate>
+            <ApiAverageResponseTime>250</ApiAverageResponseTime>
+            <ApiRules>
+                <ApiRule Id="7" ApiType="buy">
+                    <Url>https://api.debug.btctrade.com/api/buy</Url>
+                    <CurlTimeout>40</CurlTimeout>
+                </ApiRule>
+                <ApiRule Id="8" ApiType="sell">
+                    <Url>https://api.debug.btctrade.com/api/sell</Url>
+                    <CurlTimeout>40</CurlTimeout>
+                </ApiRule>
+                <ApiRule Id="9" ApiType="cancel_order">
+                    <Url>https://api.debug.btctrade.com/api/cancel_order</Url>
+                    <CurlTimeout>40</CurlTimeout>
+                </ApiRule>
+                <ApiRule Id="10" ApiType="fetch_order">
+                    <Url>https://api.debug.btctrade.com/api/fetch_order</Url>
+                    <CurlTimeout>10</CurlTimeout>
+                </ApiRule>
+                <ApiRule Id="11" ApiType="fetch_orders">
+                    <Url>https://api.debug.btctrade.com/api/orders</Url>
+                    <CurlTimeout>10</CurlTimeout>
+                </ApiRule>
+                <ApiRule Id="12" ApiType="fetch_balance">
+                    <Url>https://api.debug.btctrade.com/api/balance</Url>
+                    <CurlTimeout>10</CurlTimeout>
+                </ApiRule>
+            </ApiRules>
+            <CoinRules>
+                <CoinRule Id="2" CoinType="btc">
+                    <MinTradingUnit>0.01</MinTradingUnit>
+                    <TransactionFeeRate>0.002</TransactionFeeRate>
+                    <CoinWithdrawalParaChargeType>FixedFee</CoinWithdrawalParaChargeType>
+                    <CoinWithdrawalPara>0.0001</CoinWithdrawalPara>
+                    <MinPriceSize>0.1</MinPriceSize>
+                </CoinRule>
+            </CoinRules>
+        </Platform>
+    </Platforms>
+    
+    <HedgeRobots>
+        <HedgeRobot Id="1" CfgState="enabled" CoinType="btc">
+            <MinTradingUnit>0.01</MinTradingUnit>
+            <StopLossAdjustSize>0.001</StopLossAdjustSize>
+            <HorzMarginAdjustInvl>86400</HorzMarginAdjustInvl>
+            <VertMarginAdjustInvl>86400</VertMarginAdjustInvl>
+            <OpmAdjustInvl>86400</OpmAdjustInvl>
+            <Order2ndTimeOut>7200</Order2ndTimeOut>
+            <StopLossOrderTimeOut>172800</StopLossOrderTimeOut>
+            
+            <HedgeRobotPlatformPairs>          
+                <HedgeRobotPlatformPair Id="1" PlatformA="debug.okcoin.cn" PlatformB="debug.btctrade.com">
+                    <Margin>0.001</Margin>
+                    <MarginAdjustSize>0.001</MarginAdjustSize>
+                    <OderPricingMode>AskBidPrice</OderPricingMode>
+                </HedgeRobotPlatformPair>
+                <HedgeRobotPlatformPair Id="2" PlatformA="debug.btctrade.com" PlatformB="debug.okcoin.cn">
+                    <Margin>0.001</Margin>
+                    <MarginAdjustSize>0.001</MarginAdjustSize>
+                    <OderPricingMode>AskBidPrice</OderPricingMode>
+                </HedgeRobotPlatformPair>  
+            </HedgeRobotPlatformPairs>
+            
+            <HedgeRobotAccountGroups>
+                <HedgeRobotAccountGroupNormal Id="1">
+                    <AccountGroupMln>0</AccountGroupMln>
+                    <HrAccount0 Id="1" UserName="888888@okcoin.cn" Platorm="debug.okcoin.cn">
+                        <PublicKey>000000</PublicKey>
+                        <PrivateKey>000000</PrivateKey>
+                        <InvestedMoney>100.0</InvestedMoney>
+                        <InvestedCoinNumber>1.0</InvestedCoinNumber>
+                    </HrAccount0>
+                    <HrAccount1 Id="2" UserName="888888@btctrade.com" Platorm="debug.btctrade.com">
+                        <PublicKey>000000</PublicKey>
+                        <PrivateKey>000000</PrivateKey>
+                        <InvestedMoney>100.0</InvestedMoney>
+                        <InvestedCoinNumber>1.0</InvestedCoinNumber>
+                    </HrAccount1>
+                </HedgeRobotAccountGroupNormal>                
+            </HedgeRobotAccountGroups>
+        </HedgeRobot>
+    </HedgeRobots>
+</Root>

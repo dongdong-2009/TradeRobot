@@ -1,0 +1,18 @@
+// BtcRobotSvc.idl : BtcRobotSvc 的 IDL 源
+//
+
+// 此文件将由 MIDL 工具处理以
+// 产生类型库(BtcRobotSvc.tlb)和封送处理代码。
+
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	uuid(22A34880-0184-4E64-8DFF-ADF5D6B63A54),
+	version(1.0),
+]
+library BtcRobotSvcLib
+{
+	importlib("stdole2.tlb");
+};
+

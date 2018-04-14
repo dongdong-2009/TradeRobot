@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{CB3FB14B-5A43-4FB5-9213-3D3DCCE51C92}</ProjectGuid>
+    <Keyword>AtlProj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <IgnoreImportLibrary>true</IgnoreImportLibrary>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <IgnoreImportLibrary>true</IgnoreImportLibrary>
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PrecompiledHeaderFile />
+      <PrecompiledHeaderOutputFile />
+      <DisableSpecificWarnings>4068</DisableSpecificWarnings>
+      <AdditionalIncludeDirectories>.;..\Codes;$(LIBACE_HOME);$(LIBICONV_HOME)\include;$(LIBCURL_HOME)\include;$(LIBJSONCPP_HOME)\include;$(LIBODB_HOME);$(LIBODB_MYSQL_HOME);$(LIBRESSL_HOME)\include;$(LIBXML2_HOME)\include;$(MYSQL_CONNECTOR_HOME)\include</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <HeaderFileName>BtcRobotSvc_i.h</HeaderFileName>
+      <InterfaceIdentifierFileName>BtcRobotSvc_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>BtcRobotSvc_p.c</ProxyFileName>
+      <GenerateStublessProxies>true</GenerateStublessProxies>
+      <TypeLibraryName>$(IntDir)BtcRobotSvc.tlb</TypeLibraryName>
+      <DllDataFileName />
+      <ValidateAllParameters>true</ValidateAllParameters>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <RegisterOutput>false</RegisterOutput>
+      <AdditionalLibraryDirectories>$(LIBACE_HOME)\lib;$(LIBCURL_HOME);$(LIBJSONCPP_HOME)\lib;$(LIBODB_HOME)\lib;$(LIBODB_MYSQL_HOME)\lib;$(LIBRESSL_HOME)\x86;$(MYSQL_CONNECTOR_HOME)\lib</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <HeaderFileName>BtcRobotSvc_i.h</HeaderFileName>
+      <InterfaceIdentifierFileName>BtcRobotSvc_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>BtcRobotSvc_p.c</ProxyFileName>
+      <GenerateStublessProxies>true</GenerateStublessProxies>
+      <TypeLibraryName>$(IntDir)BtcRobotSvc.tlb</TypeLibraryName>
+      <DllDataFileName />
+      <ValidateAllParameters>true</ValidateAllParameters>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <RegisterOutput>true</RegisterOutput>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Codes\Include\Entity\Entities-odb.cpp" />
+    <ClCompile Include="..\Codes\Src\Entity\Entities.cpp" />
+    <ClCompile Include="..\Codes\Src\Entity\TableIndexHelper.cpp" />
+    <ClCompile Include="..\Codes\Src\Foundation\Database.cpp" />
+    <ClCompile Include="..\Codes\Src\Foundation\Debug.cpp" />
+    <ClCompile Include="..\Codes\Src\Foundation\FloatComparison.cpp" />
+    <ClCompile Include="..\Codes\Src\Foundation\LibLinking.cpp" />
+    <ClCompile Include="..\Codes\Src\Foundation\Md5HmacSha256.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\BtcTradeMarketPoller.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\BtcTradeNonceHelper.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\BtcTradePlatform.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\BuyLowSellHighRobot.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\BuyLowSellHighRobotCommand.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\BuyLowSellHighRobotSm.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\Controller.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\CurlOutputHandler.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\EnumValueToName.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\MarketHandlers.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\MarketPollers.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\OkCoinMarketPoller.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\OkCoinPlatform.cpp" />
+    <ClCompile Include="BtcRobotSvc.cpp" />
+    <ClCompile Include="BtcRobotSvc_i.c">
+      <CompileAsManaged Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</CompileAsManaged>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+      </PrecompiledHeader>
+      <CompileAsManaged Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</CompileAsManaged>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+      </PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Codes\Include\Entity\Entities-odb.h" />
+    <ClInclude Include="..\Codes\Include\Entity\Entities.h" />
+    <ClInclude Include="..\Codes\Include\Entity\TableIndexHelperInterface.h" />
+    <ClInclude Include="..\Codes\Include\Foundation\ClassFactories.h" />
+    <ClInclude Include="..\Codes\Include\Foundation\ContainerBase.h" />
+    <ClInclude Include="..\Codes\Include\Foundation\DatabaseInterface.h" />
+    <ClInclude Include="..\Codes\Include\Foundation\Debug.h" />
+    <ClInclude Include="..\Codes\Include\Foundation\FloatComparison.h" />
+    <ClInclude Include="..\Codes\Include\Foundation\Md5HmacSha256.h" />
+    <ClInclude Include="..\Codes\Include\Foundation\SystemInclude.h" />
+    <ClInclude Include="..\Codes\Include\Foundation\Type.h" />
+    <ClInclude Include="..\Codes\Include\Functions\ControllerInterface.h" />
+    <ClInclude Include="..\Codes\Include\Functions\PlatformInterface.h" />
+    <ClInclude Include="..\Codes\Include\Functions\RobotInterface.h" />
+    <ClInclude Include="..\Codes\Include\Module\Module.h" />
+    <ClInclude Include="..\Codes\Src\Entity\TableIndexHelper.h" />
+    <ClInclude Include="..\Codes\Src\Foundation\Database.h" />
+    <ClInclude Include="..\Codes\Src\Functions\BtcTradeMarketPoller.h" />
+    <ClInclude Include="..\Codes\Src\Functions\BtcTradeNonceHelper.h" />
+    <ClInclude Include="..\Codes\Src\Functions\BtcTradePlatform.h" />
+    <ClInclude Include="..\Codes\Src\Functions\BuyLowSellHighRobot.h" />
+    <ClInclude Include="..\Codes\Src\Functions\BuyLowSellHighRobotCommand.h" />
+    <ClInclude Include="..\Codes\Src\Functions\BuyLowSellHighRobotSm.h" />
+    <ClInclude Include="..\Codes\Src\Functions\Controller.h" />
+    <ClInclude Include="..\Codes\Src\Functions\CurlOutputHandler.h" />
+    <ClInclude Include="..\Codes\Src\Functions\EnumValueToName.h" />
+    <ClInclude Include="..\Codes\Src\Functions\MarketHandlers.h" />
+    <ClInclude Include="..\Codes\Src\Functions\MarketPoller.h" />
+    <ClInclude Include="..\Codes\Src\Functions\MarketPollers.h" />
+    <ClInclude Include="..\Codes\Src\Functions\OkCoinMarketPoller.h" />
+    <ClInclude Include="..\Codes\Src\Functions\OkCoinPlatform.h" />
+    <ClInclude Include="..\Codes\Src\Functions\OrdersStateInterface.h" />
+    <ClInclude Include="BtcRobotSvc_i.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="BtcRobotSvc.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Codes\Include\Entity\CompileOdbHeader.cmd">
+      <FileType>Document</FileType>
+    </None>
+    <None Include="..\Codes\Include\Entity\CreateTable.cmd">
+      <FileType>Document</FileType>
+    </None>
+    <None Include="..\Codes\Include\Entity\Entities-odb.ixx">
+      <FileType>Document</FileType>
+    </None>
+    <None Include="..\Codes\Include\Entity\Entities-odb.sql">
+      <FileType>Document</FileType>
+    </None>
+    <None Include="BtcRobotSvc.rgs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Midl Include="BtcRobotSvc.idl" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

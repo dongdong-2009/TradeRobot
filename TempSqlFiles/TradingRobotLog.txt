@@ -1,0 +1,531 @@
+[2017-07-26 22:04:20,970.057][INFO ] main,68> Software Svn Version: 1453
+[2017-07-26 22:04:28,702.284][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 22:06:52,118.650][INFO ] main,68> Software Svn Version: 1453
+[2017-07-26 22:06:52,140.250][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 22:06:52,499.667][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:06:52,863.688][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:07:27,357.157][INFO ] main,68> Software Svn Version: 1453
+[2017-07-26 22:07:27,376.158][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 22:07:27,715.177][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:07:28,084.198][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:07:28,448.219][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:08:06,169.971][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:08:06,514.991][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:08:06,888.012][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:08:42,425.043][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:08:42,787.064][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:08:43,142.084][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:09:18,231.884][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:09:18,604.906][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:10:33,181.969][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:11:14,454.325][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:11:14,792.344][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:11:15,147.365][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:11:54,691.622][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:11:55,050.643][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:11:57,264.968][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 22:12:35,995.179][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:12:36,394.201][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:13:53,291.578][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:15:13,091.733][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:15:13,434.752][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:17:25,551.490][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 22:18:03,732.471][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:20:03,442.090][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 22:20:31,442.476][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:21:07,893.354][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1056(unknown error code)
+[2017-07-26 22:21:08,228.373][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:21:46,895.377][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:24:58,744.350][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:24:59,080.369][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:24:59,416.388][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:24:59,754.407][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:25:37,706.746][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:25:39,561.451][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:25:39,926.472][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:25:43,040.646][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 22:26:58,749.084][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:27:39,003.929][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:27:40,618.621][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:27:40,970.641][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:27:41,323.057][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:28:56,449.617][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:28:56,806.435][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:28:57,153.455][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:28:57,489.474][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:28:57,847.494][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:28:58,185.514][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:28:58,567.535][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:28:58,927.556][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:29:01,146.679][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 22:30:15,012.166][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:30:15,346.185][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:30:15,706.206][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:32:12,451.340][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:32:51,095.873][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:32:51,465.894][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:32:51,805.913][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:32:52,168.934][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:32:52,619.960][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:32:52,957.979][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:34:59,881.889][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:35:00,257.911][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:35:00,646.933][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:35:01,006.954][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:35:01,344.973][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:36:31,419.231][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:36:31,794.252][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:37:03,436.247][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 22:37:05,652.374][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 22:37:42,488.632][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:38:58,849.236][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:38:59,199.256][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:41:17,654.041][INFO ] main,68> Software Svn Version: 1454
+[2017-07-26 22:41:17,677.042][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 22:41:54,321.323][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:42:30,721.603][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:42:31,066.222][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:42:31,406.841][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:42:31,751.861][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:42:32,100.881][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:42:32,428.899][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:42:32,757.918][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:42:33,103.938][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:46:13,795.180][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 22:46:16,414.528][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 22:46:53,194.813][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:49:13,721.814][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:49:14,048.833][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:52:05,499.639][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:52:24,843.746][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,643> coin is not enough, robot id=1, account id=1, required coin number=0.0200, available coin number=0.0198
+[2017-07-26 22:54:09,497.732][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:54:09,834.751][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:55:25,820.095][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:55:26,151.114][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:56:13,867.843][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 22:56:14,251.865][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:56:14,618.886][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:56:15,015.909][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:56:36,612.144][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 22:56:59,688.464][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:57:40,494.798][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 22:57:41,243.841][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 22:57:49,168.294][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 22:57:49,520.314][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:57:49,849.333][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:57:50,196.353][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:58:28,513.544][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:58:39,227.157][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 22:58:41,444.284][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 22:58:43,662.411][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 22:58:44,117.437][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:58:44,510.459][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:58:44,898.481][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:58:45,227.500][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:58:47,450.627][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 22:58:47,876.652][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:58:48,248.673][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:58:48,579.692][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:59:15,670.241][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 22:59:16,092.266][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 22:59:54,046.436][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 22:59:56,583.582][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:00:05,495.091][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:00:07,711.218][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:00:23,606.127][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:00:23,625.128][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:00:25,793.252][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:00:25,979.263][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:00:27,914.374][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:00:28,195.390][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:00:28,671.417][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:00:30,476.520][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:00:32,687.647][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:01:11,678.877][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:01:12,100.901][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:01:12,447.921][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:01:12,811.942][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:01:53,869.290][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:02:36,773.744][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:02:38,294.831][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:02:49,829.491][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:03:13,336.835][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:03:13,682.855][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:03:28,611.709][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:04:36,245.577][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:05:54,471.440][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:05:54,801.458][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:06:48,402.524][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:06:48,494.529][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:06:54,125.451][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:04,189.026][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:05,341.092][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:06,308.147][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:08,429.868][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:10,550.989][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:12,090.077][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:12,675.111][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:13,635.166][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:07:14,795.232][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:15,856.293][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:16,916.353][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:18,103.421][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:19,037.475][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:20,319.548][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:21,161.596][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:22,538.274][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:23,281.713][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:23,289.714][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:07:25,415.633][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:25,513.638][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:27,543.151][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:27,727.161][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:29,662.272][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:29,942.288][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:31,783.393][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:32,157.415][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:33,372.484][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:07:33,904.515][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:36,012.829][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:38,134.946][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:38,758.982][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:07:40,256.262][WARN ] OcdcMarketPoller::QueryMarketInfoImpl,67> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:09:00,980.439][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:10:24,837.614][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:10:25,184.634][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:11:44,734.865][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:11:45,077.083][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:13:04,655.755][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:13:05,004.775][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:13:48,741.449][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:21:49,470.069][INFO ] main,68> Software Svn Version: 1456
+[2017-07-26 23:21:49,494.070][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:23:36,691.991][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:23:37,022.009][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:24:55,478.885][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:24:55,816.904][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:24:56,152.923][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:27:02,339.304][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:28:53,649.455][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:29:12,000.496][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:29:48,012.345][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:29:48,352.364][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:29:48,682.383][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:29:49,016.402][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:30:26,761.151][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:30:27,112.172][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:31:03,378.832][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:33:34,612.646][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:33:35,061.271][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:34:11,820.959][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:36:01,553.201][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:36:01,892.220][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:36:41,992.484][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:36:42,351.504][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:37:20,085.249][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:37:20,412.267][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:37:20,742.286][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:37:46,386.951][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1355.1800, coin number=0.0200
+[2017-07-26 23:37:46,889.980][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:37:47,554.018][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=1, order type=buy, price=1355.1800, coin number=0.0200, ptm0 ask price=1359.9000, ptm0 bid price=1355.9000, ptm0 lst price=1359.9500
+[2017-07-26 23:37:48,154.052][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:37:48,161.053][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1356.0500, coin number=0.0200
+[2017-07-26 23:37:48,530.074][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:37:49,971.156][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=2, order type=buy, price=1356.0500, coin number=0.0200, ptm0 ask price=1359.8200, ptm0 bid price=1356.0500, ptm0 lst price=1359.9500
+[2017-07-26 23:37:50,192.768][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:38:00,279.142][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:38:00,880.177][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1355.7000, coin number=0.0200
+[2017-07-26 23:38:01,137.390][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:38:01,365.403][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=3, order type=buy, price=1355.7000, coin number=0.0200, ptm0 ask price=1358.8900, ptm0 bid price=1356.8000, ptm0 lst price=1357.9000
+[2017-07-26 23:38:01,617.417][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:38:01,625.418][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1355.2400, coin number=0.0200
+[2017-07-26 23:38:01,826.429][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:38:02,343.058][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=4, order type=buy, price=1355.2400, coin number=0.0200, ptm0 ask price=1358.8400, ptm0 bid price=1355.6600, ptm0 lst price=1357.9000
+[2017-07-26 23:38:02,559.070][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:38:02,567.071][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1355.8100, coin number=0.0200
+[2017-07-26 23:38:02,802.084][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:38:02,974.094][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=5, order type=buy, price=1355.8100, coin number=0.0200, ptm0 ask price=1358.8300, ptm0 bid price=1355.7100, ptm0 lst price=1357.9000
+[2017-07-26 23:38:03,195.107][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:38:03,202.107][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1355.8600, coin number=0.0200
+[2017-07-26 23:38:03,399.118][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:38:03,634.132][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=6, order type=buy, price=1355.8600, coin number=0.0200, ptm0 ask price=1358.8200, ptm0 bid price=1355.8600, ptm0 lst price=1357.9000
+[2017-07-26 23:38:03,934.149][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:38:03,942.149][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1356.0100, coin number=0.0200
+[2017-07-26 23:38:04,092.158][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:38:04,569.185][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=7, order type=buy, price=1356.0100, coin number=0.0200, ptm0 ask price=1358.8200, ptm0 bid price=1356.0100, ptm0 lst price=1357.9000
+[2017-07-26 23:38:04,672.191][WARN ] OcdcPlatform::HandleHttpOrderCancelString,558> failed, ocdc code=10009, error string=OptResultNoMatchedOrderId
+[2017-07-26 23:38:04,798.198][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Bought
+[2017-07-26 23:38:04,806.199][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,778> create order, state=Step0Buying, order id=0, order type=sell, price=1359.7000, coin number=0.0200, ptm0 ask price=1358.8200, ptm0 bid price=1356.0100, ptm0 lst price=1357.9000
+[2017-07-26 23:38:05,553.638][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step1Selling
+[2017-07-26 23:38:06,310.078][INFO ] HrAccGrpAlgorithmNs::Step1Selling::HandleOrder,1166> order closed, state=Step1Selling, order id=8, order type=sell, price=1359.7000, coin number=0.0200
+[2017-07-26 23:38:06,324.079][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:38:06,332.079][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1355.9200, coin number=0.0200
+[2017-07-26 23:38:06,510.089][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:38:07,788.559][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=9, order type=buy, price=1355.9200, coin number=0.0200, ptm0 ask price=1356.0000, ptm0 bid price=1355.9200, ptm0 lst price=1356.0000
+[2017-07-26 23:38:08,009.572][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:38:08,017.572][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1356.0700, coin number=0.0200
+[2017-07-26 23:38:08,239.585][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:38:08,364.592][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Bought
+[2017-07-26 23:38:08,372.592][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleOrder,846> create order, state=Step0Buying, order id=0, order type=sell, price=1359.7000, coin number=0.0200, ptm1 ask price=1360.0100, ptm1 bid price=1360.0000, ptm1 lst price=1360.0000
+[2017-07-26 23:38:08,577.604][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step1Selling
+[2017-07-26 23:38:20,769.599][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:38:40,156.902][INFO ] HrAccGrpAlgorithmNs::Step1Selling::HandleOrder,1166> order closed, state=Step1Selling, order id=11, order type=sell, price=1359.7000, coin number=0.0200
+[2017-07-26 23:38:40,172.902][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:38:56,443.424][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:38:56,772.442][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:38:57,103.461][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:39:34,198.372][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:40:16,649.390][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:40:18,862.517][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1028(CURLE_OPERATION_TIMEDOUT)
+[2017-07-26 23:40:19,193.536][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:40:19,526.555][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:41:36,286.331][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:41:37,270.986][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:42:59,836.873][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:43:03,903.303][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1352.0900, coin number=0.0200
+[2017-07-26 23:43:04,870.359][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:43:05,271.382][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=12, order type=buy, price=1352.0900, coin number=0.0200, ptm0 ask price=1359.0000, ptm0 bid price=1354.5100, ptm0 lst price=1351.9400
+[2017-07-26 23:43:05,789.411][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:43:37,919.628][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:43:38,268.648][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:43:38,612.668][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:43:38,948.687][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:44:11,878.342][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1354.1500, coin number=0.0200
+[2017-07-26 23:44:12,344.369][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:44:13,802.452][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=13, order type=buy, price=1354.1500, coin number=0.0200, ptm0 ask price=1355.0000, ptm0 bid price=1354.1500, ptm0 lst price=1355.0000
+[2017-07-26 23:44:14,427.488][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:44:14,435.488][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1354.3000, coin number=0.0200
+[2017-07-26 23:44:14,835.511][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:44:15,734.563][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=14, order type=buy, price=1354.3000, coin number=0.0200, ptm0 ask price=1355.0000, ptm0 bid price=1354.3000, ptm0 lst price=1355.0000
+[2017-07-26 23:44:16,119.585][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:44:16,128.585][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1354.4500, coin number=0.0200
+[2017-07-26 23:44:16,326.597][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:44:17,278.651][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=15, order type=buy, price=1354.4500, coin number=0.0200, ptm0 ask price=1355.0000, ptm0 bid price=1354.4500, ptm0 lst price=1355.0000
+[2017-07-26 23:44:17,570.668][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:44:17,579.668][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1354.6000, coin number=0.0200
+[2017-07-26 23:44:18,675.528][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:44:18,895.140][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=16, order type=buy, price=1354.6000, coin number=0.0200, ptm0 ask price=1355.0000, ptm0 bid price=1354.6000, ptm0 lst price=1355.0000
+[2017-07-26 23:44:19,127.153][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:44:19,135.154][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1354.7500, coin number=0.0200
+[2017-07-26 23:44:19,340.165][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:44:20,696.243][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:44:20,745.246][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=17, order type=buy, price=1354.7500, coin number=0.0200, ptm0 ask price=1355.0000, ptm0 bid price=1354.7500, ptm0 lst price=1355.0000
+[2017-07-26 23:44:20,964.258][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:44:20,973.259][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1354.9000, coin number=0.0200
+[2017-07-26 23:44:21,042.263][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:44:21,198.272][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:44:22,180.328][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=18, order type=buy, price=1354.9000, coin number=0.0200, ptm0 ask price=1355.0000, ptm0 bid price=1354.9000, ptm0 lst price=1355.0000
+[2017-07-26 23:44:22,404.341][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:44:22,412.341][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1355.0500, coin number=0.0200
+[2017-07-26 23:44:22,609.352][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:44:23,122.981][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Bought
+[2017-07-26 23:44:23,130.981][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleOrder,846> create order, state=Step0Buying, order id=0, order type=sell, price=1358.7000, coin number=0.0200, ptm1 ask price=1359.9900, ptm1 bid price=1359.0000, ptm1 lst price=1359.0000
+[2017-07-26 23:44:23,803.020][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step1Selling
+[2017-07-26 23:44:24,402.054][INFO ] HrAccGrpAlgorithmNs::Step1Selling::HandleOrder,1166> order closed, state=Step1Selling, order id=20, order type=sell, price=1358.7000, coin number=0.0200
+[2017-07-26 23:44:24,416.055][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:44:24,424.055][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1354.1500, coin number=0.0200
+[2017-07-26 23:44:24,588.065][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:44:24,701.071][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=21, order type=buy, price=1354.1500, coin number=0.0200, ptm0 ask price=1355.0000, ptm0 bid price=1354.0100, ptm0 lst price=1355.0000
+[2017-07-26 23:44:24,998.088][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:44:25,006.089][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1354.1700, coin number=0.0200
+[2017-07-26 23:44:25,175.098][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:44:25,271.104][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=22, order type=buy, price=1354.1700, coin number=0.0200, ptm0 ask price=1355.0000, ptm0 bid price=1354.1500, ptm0 lst price=1355.0000
+[2017-07-26 23:44:25,564.121][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:44:25,571.121][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1354.3000, coin number=0.0200
+[2017-07-26 23:44:25,887.139][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:44:27,245.217][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=23, order type=buy, price=1354.3000, coin number=0.0200, ptm0 ask price=1355.0000, ptm0 bid price=1354.3000, ptm0 lst price=1355.0000
+[2017-07-26 23:44:27,500.231][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:44:27,508.232][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1354.4500, coin number=0.0200
+[2017-07-26 23:44:27,741.245][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:44:28,578.293][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=24, order type=buy, price=1354.4500, coin number=0.0200, ptm0 ask price=1355.0000, ptm0 bid price=1354.3100, ptm0 lst price=1355.0000
+[2017-07-26 23:44:28,801.306][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:44:28,809.306][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1354.4600, coin number=0.0200
+[2017-07-26 23:44:29,017.318][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:44:29,228.929][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=25, order type=buy, price=1354.4600, coin number=0.0200, ptm0 ask price=1356.0000, ptm0 bid price=1355.0000, ptm0 lst price=1355.0000
+[2017-07-26 23:44:29,513.946][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:44:57,970.167][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:45:37,817.835][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:46:16,598.040][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:46:16,927.058][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:46:17,278.079][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:48:52,149.031][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:48:52,507.052][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:48:52,838.071][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:48:53,167.089][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:48:53,533.709][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:48:53,872.729][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:50:00,927.896][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1351.3300, coin number=0.0200
+[2017-07-26 23:50:01,392.922][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:50:01,998.957][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=26, order type=buy, price=1351.3300, coin number=0.0200, ptm0 ask price=1352.9800, ptm0 bid price=1351.3300, ptm0 lst price=1351.1800
+[2017-07-26 23:50:02,490.985][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:50:02,502.986][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1351.4800, coin number=0.0200
+[2017-07-26 23:50:02,691.997][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:50:03,128.022][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=27, order type=buy, price=1351.4800, coin number=0.0200, ptm0 ask price=1352.9600, ptm0 bid price=1351.4800, ptm0 lst price=1352.9600
+[2017-07-26 23:50:04,185.082][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:50:04,194.083][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1351.6300, coin number=0.0200
+[2017-07-26 23:50:04,369.093][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:50:05,489.157][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=28, order type=buy, price=1351.6300, coin number=0.0200, ptm0 ask price=1352.9600, ptm0 bid price=1351.6300, ptm0 lst price=1352.9600
+[2017-07-26 23:50:05,742.171][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:50:05,751.172][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1351.7800, coin number=0.0200
+[2017-07-26 23:50:05,947.183][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:50:06,115.193][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Bought
+[2017-07-26 23:50:06,123.193][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleOrder,846> create order, state=Step0Buying, order id=0, order type=sell, price=1355.5000, coin number=0.0200, ptm1 ask price=1356.0100, ptm1 bid price=1355.8000, ptm1 lst price=1355.8000
+[2017-07-26 23:50:06,680.225][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step1Selling
+[2017-07-26 23:50:07,210.255][INFO ] HrAccGrpAlgorithmNs::Step1Selling::HandleOrder,1166> order closed, state=Step1Selling, order id=30, order type=sell, price=1355.5000, coin number=0.0200
+[2017-07-26 23:50:07,224.256][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:50:07,233.257][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1351.7800, coin number=0.0200
+[2017-07-26 23:50:07,456.269][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:50:08,247.315][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=31, order type=buy, price=1351.7800, coin number=0.0200, ptm0 ask price=1352.9600, ptm0 bid price=1352.3300, ptm0 lst price=1351.4000
+[2017-07-26 23:50:08,705.341][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:50:11,913.524][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1351.5500, coin number=0.0200
+[2017-07-26 23:50:12,112.536][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:50:12,210.541][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=32, order type=buy, price=1351.5500, coin number=0.0200, ptm0 ask price=1352.9500, ptm0 bid price=1352.3300, ptm0 lst price=1352.9500
+[2017-07-26 23:50:12,483.557][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:50:12,490.557][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1351.5500, coin number=0.0200
+[2017-07-26 23:50:12,715.570][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:50:12,927.582][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=33, order type=buy, price=1351.5500, coin number=0.0200, ptm0 ask price=1352.9500, ptm0 bid price=1351.5500, ptm0 lst price=1352.9500
+[2017-07-26 23:50:13,193.597][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:50:13,200.598][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1351.7000, coin number=0.0200
+[2017-07-26 23:50:13,408.610][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:50:14,546.675][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=34, order type=buy, price=1351.7000, coin number=0.0200, ptm0 ask price=1353.0000, ptm0 bid price=1351.7000, ptm0 lst price=1353.0000
+[2017-07-26 23:50:14,836.691][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:50:14,844.692][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1351.8500, coin number=0.0200
+[2017-07-26 23:50:15,010.701][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:50:15,884.751][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=35, order type=buy, price=1351.8500, coin number=0.0200, ptm0 ask price=1353.0000, ptm0 bid price=1351.8500, ptm0 lst price=1353.0000
+[2017-07-26 23:50:16,124.765][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:50:16,663.796][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1351.4500, coin number=0.0200
+[2017-07-26 23:50:16,831.806][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:50:17,700.855][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=36, order type=buy, price=1351.4500, coin number=0.0200, ptm0 ask price=1353.0000, ptm0 bid price=1351.4500, ptm0 lst price=1353.0000
+[2017-07-26 23:50:17,948.869][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:50:17,957.870][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1351.6000, coin number=0.0200
+[2017-07-26 23:50:18,170.882][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:50:19,429.954][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Bought
+[2017-07-26 23:50:19,437.955][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleOrder,846> create order, state=Step0Buying, order id=0, order type=sell, price=1355.5000, coin number=0.0200, ptm1 ask price=1356.0100, ptm1 bid price=1355.8000, ptm1 lst price=1355.8000
+[2017-07-26 23:50:19,838.978][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step1Selling
+[2017-07-26 23:50:21,137.052][INFO ] HrAccGrpAlgorithmNs::Step1Selling::HandleOrder,1166> order closed, state=Step1Selling, order id=38, order type=sell, price=1355.5000, coin number=0.0200
+[2017-07-26 23:50:21,152.053][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:50:21,160.053][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1351.4500, coin number=0.0200
+[2017-07-26 23:50:21,306.061][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:50:21,776.088][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=39, order type=buy, price=1351.4500, coin number=0.0200, ptm0 ask price=1352.9700, ptm0 bid price=1351.5000, ptm0 lst price=1352.9700
+[2017-07-26 23:50:22,035.103][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:50:22,239.115][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1351.6500, coin number=0.0200
+[2017-07-26 23:50:22,398.124][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:50:23,116.764][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=40, order type=buy, price=1351.6500, coin number=0.0200, ptm0 ask price=1352.9600, ptm0 bid price=1352.3900, ptm0 lst price=1352.9600
+[2017-07-26 23:50:23,351.377][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:50:26,979.584][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1351.6500, coin number=0.0200
+[2017-07-26 23:50:27,138.593][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:50:28,088.648][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=41, order type=buy, price=1351.6500, coin number=0.0200, ptm0 ask price=1353.0000, ptm0 bid price=1351.6500, ptm0 lst price=1353.0000
+[2017-07-26 23:50:28,347.662][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:50:28,355.663][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1351.8000, coin number=0.0200
+[2017-07-26 23:50:28,596.677][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:50:29,435.725][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=42, order type=buy, price=1351.8000, coin number=0.0200, ptm0 ask price=1353.0000, ptm0 bid price=1352.0400, ptm0 lst price=1353.0000
+[2017-07-26 23:50:29,674.738][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:50:34,836.232][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:51:49,932.100][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:52:28,240.679][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:53:06,662.045][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:53:07,136.072][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:54:20,970.270][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:54:21,309.290][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:55:37,004.985][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:55:37,338.004][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:55:37,716.026][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:55:38,047.045][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:56:15,360.765][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1348.3300, coin number=0.0200
+[2017-07-26 23:56:15,794.790][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:56:16,410.825][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Bought
+[2017-07-26 23:56:16,419.826][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleOrder,846> create order, state=Step0Buying, order id=0, order type=sell, price=1353.7000, coin number=0.0200, ptm1 ask price=1355.9000, ptm1 bid price=1354.0000, ptm1 lst price=1356.0100
+[2017-07-26 23:56:17,098.865][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step1Selling
+[2017-07-26 23:56:18,355.937][INFO ] HrAccGrpAlgorithmNs::Step1Selling::HandleOrder,1166> order closed, state=Step1Selling, order id=44, order type=sell, price=1353.7000, coin number=0.0200
+[2017-07-26 23:56:18,371.938][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:56:18,378.938][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1348.3300, coin number=0.0200
+[2017-07-26 23:56:18,556.948][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:56:18,564.949][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=45, order type=buy, price=1348.3300, coin number=0.0200, ptm0 ask price=1351.9600, ptm0 bid price=1349.6400, ptm0 lst price=1349.6400
+[2017-07-26 23:56:19,278.989][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:56:19,285.990][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1349.7900, coin number=0.0200
+[2017-07-26 23:56:19,462.000][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:56:19,742.016][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=46, order type=buy, price=1349.7900, coin number=0.0200, ptm0 ask price=1350.5900, ptm0 bid price=1349.7900, ptm0 lst price=1345.1700
+[2017-07-26 23:56:20,166.040][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:56:20,174.041][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1349.9400, coin number=0.0200
+[2017-07-26 23:56:20,340.050][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:56:20,926.084][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=47, order type=buy, price=1349.9400, coin number=0.0200, ptm0 ask price=1350.5900, ptm0 bid price=1349.9400, ptm0 lst price=1345.1700
+[2017-07-26 23:56:21,169.697][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:56:21,177.697][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1346.6900, coin number=0.0200
+[2017-07-26 23:56:21,616.722][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:56:21,712.728][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=48, order type=buy, price=1346.6900, coin number=0.0200, ptm0 ask price=1350.5900, ptm0 bid price=1349.9400, ptm0 lst price=1345.1700
+[2017-07-26 23:56:21,943.741][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:56:21,950.741][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1346.6900, coin number=0.0200
+[2017-07-26 23:56:22,183.755][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:56:22,279.760][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=49, order type=buy, price=1346.6900, coin number=0.0200, ptm0 ask price=1350.5000, ptm0 bid price=1346.6900, ptm0 lst price=1350.6400
+[2017-07-26 23:56:22,538.775][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:56:22,544.775][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1346.6900, coin number=0.0200
+[2017-07-26 23:56:22,732.385][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:56:23,721.442][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=50, order type=buy, price=1346.6900, coin number=0.0200, ptm0 ask price=1350.0200, ptm0 bid price=1346.6900, ptm0 lst price=1350.6400
+[2017-07-26 23:56:23,989.457][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:56:23,997.458][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1346.8400, coin number=0.0200
+[2017-07-26 23:56:24,185.468][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:56:24,877.508][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=51, order type=buy, price=1346.8400, coin number=0.0200, ptm0 ask price=1349.9600, ptm0 bid price=1346.8400, ptm0 lst price=1350.6400
+[2017-07-26 23:56:25,100.521][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:56:25,107.521][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1346.9900, coin number=0.0200
+[2017-07-26 23:56:25,308.533][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:56:26,128.579][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Bought
+[2017-07-26 23:56:26,137.580][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleOrder,846> create order, state=Step0Buying, order id=0, order type=sell, price=1352.0000, coin number=0.0200, ptm1 ask price=1355.0400, ptm1 bid price=1352.3000, ptm1 lst price=1352.3000
+[2017-07-26 23:56:26,344.592][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step1Selling
+[2017-07-26 23:56:26,547.603][INFO ] HrAccGrpAlgorithmNs::Step1Selling::HandleOrder,1166> order closed, state=Step1Selling, order id=53, order type=sell, price=1352.0000, coin number=0.0200
+[2017-07-26 23:56:26,561.604][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:56:26,569.605][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1346.6900, coin number=0.0200
+[2017-07-26 23:56:26,734.614][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:56:28,090.692][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=54, order type=buy, price=1346.6900, coin number=0.0200, ptm0 ask price=1349.8900, ptm0 bid price=1346.6900, ptm0 lst price=1345.0000
+[2017-07-26 23:56:28,337.706][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:56:28,345.706][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1346.8400, coin number=0.0200
+[2017-07-26 23:56:29,153.753][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:56:29,878.794][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=55, order type=buy, price=1346.8400, coin number=0.0200, ptm0 ask price=1349.8800, ptm0 bid price=1346.8400, ptm0 lst price=1345.0000
+[2017-07-26 23:56:30,224.814][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:56:30,232.814][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1346.9900, coin number=0.0200
+[2017-07-26 23:56:30,387.823][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:56:31,556.489][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Bought
+[2017-07-26 23:56:31,564.490][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleOrder,846> create order, state=Step0Buying, order id=0, order type=sell, price=1352.0000, coin number=0.0200, ptm1 ask price=1355.0400, ptm1 bid price=1352.3000, ptm1 lst price=1352.3000
+[2017-07-26 23:56:32,135.518][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step1Selling
+[2017-07-26 23:56:32,611.545][INFO ] HrAccGrpAlgorithmNs::Step1Selling::HandleOrder,1166> order closed, state=Step1Selling, order id=57, order type=sell, price=1352.0000, coin number=0.0200
+[2017-07-26 23:56:32,625.546][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:56:32,633.546][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1347.1400, coin number=0.0200
+[2017-07-26 23:56:32,769.554][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:56:32,777.555][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=58, order type=buy, price=1347.1400, coin number=0.0200, ptm0 ask price=1347.9500, ptm0 bid price=1347.8700, ptm0 lst price=1348.0000
+[2017-07-26 23:56:33,039.570][WARN ] OcdcPlatform::HandleHttpOrderCancelString,558> failed, ocdc code=10009, error string=OptResultNoMatchedOrderId
+[2017-07-26 23:56:33,160.576][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Bought
+[2017-07-26 23:56:33,168.577][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,778> create order, state=Step0Buying, order id=0, order type=sell, price=1353.7100, coin number=0.0200, ptm0 ask price=1347.9500, ptm0 bid price=1347.8700, ptm0 lst price=1348.0000
+[2017-07-26 23:56:33,360.588][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step1Selling
+[2017-07-26 23:56:34,164.634][INFO ] HrAccGrpAlgorithmNs::Step1Selling::HandleOrder,1166> order closed, state=Step1Selling, order id=59, order type=sell, price=1353.7100, coin number=0.0200
+[2017-07-26 23:56:34,178.635][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:56:34,186.635][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1345.6500, coin number=0.0200
+[2017-07-26 23:56:34,471.651][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-26 23:56:35,498.710][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=60, order type=buy, price=1345.6500, coin number=0.0200, ptm0 ask price=1346.9600, ptm0 bid price=1345.6500, ptm0 lst price=1345.5000
+[2017-07-26 23:56:35,612.717][WARN ] OcdcPlatform::HandleHttpOrderCancelString,558> failed, ocdc code=10009, error string=OptResultNoMatchedOrderId
+[2017-07-26 23:56:35,746.724][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Bought
+[2017-07-26 23:56:35,754.725][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,778> create order, state=Step0Buying, order id=0, order type=sell, price=1353.7100, coin number=0.0200, ptm0 ask price=1346.9600, ptm0 bid price=1345.6500, ptm0 lst price=1345.5000
+[2017-07-26 23:56:35,932.735][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step1Selling
+[2017-07-26 23:57:37,936.656][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:57:38,287.676][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-26 23:58:35,003.709][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-26 23:58:36,141.973][INFO ] HrAccGrpAlgorithmNs::HrAccGrpAlgorithmBase::HandleStopLossOrder,497> cancel order, state=NoOrder, order id=61, order type=sell, price=1353.7100, coin number=0.0200
+[2017-07-26 23:58:36,738.403][INFO ] HrAccGrpAlgorithmNs::HrAccGrpAlgorithmBase::HandleStopLossOrder,524> create order, state=NoOrder, order id=0, order type=sell, price=1352.3563, coin number=0.0200
+[2017-07-27 00:00:05,453.439][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1346.1600, coin number=0.0200
+[2017-07-27 00:00:05,878.463][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-27 00:00:06,416.692][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Bought
+[2017-07-27 00:00:06,425.692][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleOrder,846> create order, state=Step0Buying, order id=0, order type=sell, price=1352.0600, coin number=0.0200, ptm1 ask price=1354.0000, ptm1 bid price=1352.3600, ptm1 lst price=1354.0000
+[2017-07-27 00:00:06,934.722][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step1Selling
+[2017-07-27 00:00:06,942.722][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-27 00:00:06,950.722][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1346.1600, coin number=0.0200
+[2017-07-27 00:00:07,126.732][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-27 00:00:07,741.768][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=65, order type=buy, price=1346.1600, coin number=0.0200, ptm0 ask price=1347.6800, ptm0 bid price=1347.1800, ptm0 lst price=1347.6800
+[2017-07-27 00:00:08,220.795][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-27 00:00:08,227.795][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1347.3300, coin number=0.0200
+[2017-07-27 00:00:08,504.811][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-27 00:00:08,910.434][INFO ] HrAccGrpAlgorithmNs::Step0Buying::HandleMarket,760> cancel order, state=Step0Buying, order id=66, order type=buy, price=1347.3300, coin number=0.0200, ptm0 ask price=1347.7000, ptm0 bid price=1347.3300, ptm0 lst price=1347.7000
+[2017-07-27 00:00:09,143.447][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=NoOrder
+[2017-07-27 00:00:09,151.447][INFO ] HrAccGrpAlgorithmNs::NoOrder::HandleMarket,606> create order, state=NoOrder, order type=Buy, robot id=1, account id=1, price=1347.4800, coin number=0.0200
+[2017-07-27 00:00:09,377.460][INFO ] HrAccGrpAlgorithm::CastEvent,218> state changed, new state=Step0Buying
+[2017-07-27 00:00:13,514.494][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-27 00:00:13,863.514][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-27 00:00:49,958.967][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)
+[2017-07-27 00:00:50,312.987][WARN ] BtdcMarketPoller::QueryMarketInfoImpl,73> failed, err code=1052(CURLE_GOT_NOTHING)

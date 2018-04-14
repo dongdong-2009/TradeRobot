@@ -1,0 +1,423 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{c54507f1-577e-4bb9-8e04-5cdd5759aa63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{5a58204e-9a97-40e0-a00f-748435e7b35f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonCodes">
+      <UniqueIdentifier>{c102edf0-1735-4fe0-b857-bbefba515a44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonCodes\头文件">
+      <UniqueIdentifier>{c4fe0c24-da3d-4be0-b6b2-caf695b3684f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonCodes\头文件\Foundation">
+      <UniqueIdentifier>{81b5a92c-c670-4724-8549-553e6328cee4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonCodes\头文件\Functions-L3">
+      <UniqueIdentifier>{fe7041a4-ebd0-4f9f-8855-bb6eed39f847}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonCodes\头文件\Functions-L2">
+      <UniqueIdentifier>{091652c5-c93d-4b13-9bf2-7c9bc872a51f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonCodes\头文件\Functions-L1">
+      <UniqueIdentifier>{57b2d31c-3cb5-4a4a-b27d-1f7172f3989b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonCodes\头文件\Entity">
+      <UniqueIdentifier>{59fa476f-2495-4fd4-addf-ff605f9d6c99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonCodes\头文件\Entity\Entities">
+      <UniqueIdentifier>{7118f1f4-fa27-4424-b3e0-af151060717f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonCodes\头文件\Module">
+      <UniqueIdentifier>{13fc6d03-dc44-4beb-a877-7c8be2c69083}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonCodes\源文件">
+      <UniqueIdentifier>{b183d2c5-4b0f-447a-8169-049c4e5d775a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonCodes\源文件\Foundation">
+      <UniqueIdentifier>{d9c3c34c-33db-4aa5-9d03-864c14143751}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonCodes\源文件\Functions-L3">
+      <UniqueIdentifier>{0a92a2c3-dab2-46d0-b3ca-25c151ce279e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonCodes\源文件\Functions-L2">
+      <UniqueIdentifier>{f82213c7-fc0e-4484-81e5-772e2abe14bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonCodes\源文件\Functions-L1">
+      <UniqueIdentifier>{6b701205-9e7d-48c6-8195-48ebf9b23275}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonCodes\源文件\Entity">
+      <UniqueIdentifier>{ed0e0fc1-8d93-47ba-a67d-3d8de711e6dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Foundation">
+      <UniqueIdentifier>{d56b4898-b796-43a3-9d23-d7caa1c7576b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Foundation">
+      <UniqueIdentifier>{a17463e6-0492-429b-812d-eb2f52e58df4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\UnitTest">
+      <UniqueIdentifier>{3675c464-031e-488d-8381-a21460f6281f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\UnitTest">
+      <UniqueIdentifier>{7880077f-188d-4030-876b-eab120fe535f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonCodes\源文件\Functions-L2\HedgeRobot">
+      <UniqueIdentifier>{ef4d5c63-2660-4ac1-9a99-3d09e0a0abfb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonCodes\源文件\Functions-L1\Platform">
+      <UniqueIdentifier>{1013b98e-5d5d-449a-be99-ebc9439ee597}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonCodes\源文件\Functions-L1\Miscellaneous">
+      <UniqueIdentifier>{c5b6c7e6-d8f4-4ffe-8aa1-ff611e5cfba9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonCodes\源文件\Functions-L1\Platform\OkCoinDotCn">
+      <UniqueIdentifier>{c559bd78-685e-4ebe-be55-d8904aa28b12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonCodes\源文件\Functions-L1\Platform\BtcTradeDotCom">
+      <UniqueIdentifier>{909f4151-0a5e-497d-98a9-7835d7731c6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonCodes\源文件\Functions-L1\Platform\DebugDotCom">
+      <UniqueIdentifier>{6a9e5ddb-7f35-4759-b71f-16d306f61193}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonCodes\头文件\BaseType">
+      <UniqueIdentifier>{8c9c0bf1-69c6-4962-a3c2-f45694d4cf45}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Codes\Include\Foundation\ClassFactories.h">
+      <Filter>CommonCodes\头文件\Foundation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Include\Foundation\ContainerBase.h">
+      <Filter>CommonCodes\头文件\Foundation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Include\Foundation\Debug.h">
+      <Filter>CommonCodes\头文件\Foundation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Include\Foundation\SystemInclude.h">
+      <Filter>CommonCodes\头文件\Foundation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Include\Functions\ControllerInterface.h">
+      <Filter>CommonCodes\头文件\Functions-L3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Include\Functions\RobotInterface.h">
+      <Filter>CommonCodes\头文件\Functions-L2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Include\Functions\PlatformInterface.h">
+      <Filter>CommonCodes\头文件\Functions-L1</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Include\Functions\MarketPollerInterface.h">
+      <Filter>CommonCodes\头文件\Functions-L1</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Include\Entity\Entities.h">
+      <Filter>CommonCodes\头文件\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Include\Entity\Entities-odb.h">
+      <Filter>CommonCodes\头文件\Entity\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Include\Module\Module.h">
+      <Filter>CommonCodes\头文件\Module</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Src\Functions\Controller.h">
+      <Filter>CommonCodes\源文件\Functions-L3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Src\Functions\BtdcMarketPoller.h">
+      <Filter>CommonCodes\源文件\Functions-L1\Platform\BtcTradeDotCom</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Src\Functions\BtdcPlatform.h">
+      <Filter>CommonCodes\源文件\Functions-L1\Platform\BtcTradeDotCom</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Src\Functions\OcdcMarketPoller.h">
+      <Filter>CommonCodes\源文件\Functions-L1\Platform\OkCoinDotCn</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Src\Functions\OcdcPlatform.h">
+      <Filter>CommonCodes\源文件\Functions-L1\Platform\OkCoinDotCn</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Src\Functions\BtdcNonceHelper.h">
+      <Filter>CommonCodes\源文件\Functions-L1\Platform\BtcTradeDotCom</Filter>
+    </ClInclude>
+    <ClInclude Include="Codes\UtModule.h">
+      <Filter>头文件\Foundation</Filter>
+    </ClInclude>
+    <ClInclude Include="Codes\UtEntity.h">
+      <Filter>头文件\UnitTest</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Src\Functions\PlatformBase.h">
+      <Filter>CommonCodes\源文件\Functions-L1\Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Src\Functions\MarketPollerBase.h">
+      <Filter>CommonCodes\源文件\Functions-L1\Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Src\Functions\CurlOutputHandler.h">
+      <Filter>CommonCodes\源文件\Functions-L1\Miscellaneous</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Src\Functions\LogHelper.h">
+      <Filter>CommonCodes\源文件\Functions-L1\Miscellaneous</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Include\Functions\LogHelperInterface.h">
+      <Filter>CommonCodes\头文件\Functions-L1</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Include\Foundation\Database.h">
+      <Filter>CommonCodes\头文件\Foundation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Include\Functions\TableIndexHelperInterface.h">
+      <Filter>CommonCodes\头文件\Functions-L1</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Src\Functions\TableIndexHelper.h">
+      <Filter>CommonCodes\源文件\Functions-L1\Miscellaneous</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Include\Entity\EntityQueryType.h">
+      <Filter>CommonCodes\头文件\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Src\Functions\HrAccGrpAlgorithm.h">
+      <Filter>CommonCodes\源文件\Functions-L2\HedgeRobot</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Src\Functions\HedgeRobot.h">
+      <Filter>CommonCodes\源文件\Functions-L2\HedgeRobot</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Src\Functions\DbgdcMarketPoller.h">
+      <Filter>CommonCodes\源文件\Functions-L1\Platform\DebugDotCom</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Src\Functions\DbgdcPlatform.h">
+      <Filter>CommonCodes\源文件\Functions-L1\Platform\DebugDotCom</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Include\Foundation\StateMachine.h">
+      <Filter>CommonCodes\头文件\Foundation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Version.h">
+      <Filter>CommonCodes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Include\Type\BaseType.h">
+      <Filter>CommonCodes\头文件\BaseType</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Include\Foundation\ResultCode.h">
+      <Filter>CommonCodes\头文件\Foundation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Include\Foundation\Md5HmacSha256.h">
+      <Filter>CommonCodes\头文件\Foundation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Include\Entity\MemberHelper.h">
+      <Filter>CommonCodes\头文件\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="Codes\UtMemberHelper.h">
+      <Filter>头文件\UnitTest</Filter>
+    </ClInclude>
+    <ClInclude Include="Codes\UtEntities.h">
+      <Filter>头文件\UnitTest</Filter>
+    </ClInclude>
+    <ClInclude Include="Codes\UtEntityQueryType.h">
+      <Filter>头文件\UnitTest</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Include\Functions\HrAccGrpInterface.h">
+      <Filter>CommonCodes\头文件\Functions-L2</Filter>
+    </ClInclude>
+    <ClInclude Include="Codes\UtHrAccGrp.h">
+      <Filter>头文件\UnitTest</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Src\Functions\HrAccGrp.h">
+      <Filter>CommonCodes\源文件\Functions-L2\HedgeRobot</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Include\Functions\XmlWrapperInterface.h">
+      <Filter>CommonCodes\头文件\Functions-L1</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Src\Functions\XmlWrapper.h">
+      <Filter>CommonCodes\源文件\Functions-L1\Miscellaneous</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Include\Foundation\XmlHelper.h">
+      <Filter>CommonCodes\头文件\Foundation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Include\Functions\EnumHelperInterface.h">
+      <Filter>CommonCodes\头文件\Functions-L1</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Src\Functions\EnumHelper.h">
+      <Filter>CommonCodes\源文件\Functions-L1\Miscellaneous</Filter>
+    </ClInclude>
+    <ClInclude Include="Codes\UtBtdcPlatform.h">
+      <Filter>头文件\UnitTest</Filter>
+    </ClInclude>
+    <ClInclude Include="Codes\UtOcdcPlatform.h">
+      <Filter>头文件\UnitTest</Filter>
+    </ClInclude>
+    <ClInclude Include="Codes\UtController.h">
+      <Filter>头文件\UnitTest</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Codes\Src\Functions\OcdcCmdString.h">
+      <Filter>CommonCodes\源文件\Functions-L1\Platform\OkCoinDotCn</Filter>
+    </ClInclude>
+    <ClInclude Include="Codes\PriceHelperInterface.h">
+      <Filter>头文件\Foundation</Filter>
+    </ClInclude>
+    <ClInclude Include="Codes\PriceHelper.h">
+      <Filter>源文件\Foundation</Filter>
+    </ClInclude>
+    <ClInclude Include="Codes\UtMiscellaneous.h">
+      <Filter>头文件\UnitTest</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Codes\Main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Codes\Include\Entity\Entities-odb.cpp">
+      <Filter>CommonCodes\头文件\Entity\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Codes\Src\Foundation\Debug.cpp">
+      <Filter>CommonCodes\源文件\Foundation</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Codes\Src\Foundation\Md5HmacSha256.cpp">
+      <Filter>CommonCodes\源文件\Foundation</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Codes\Src\Functions\Controller.cpp">
+      <Filter>CommonCodes\源文件\Functions-L3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Codes\Src\Entity\Entities.cpp">
+      <Filter>CommonCodes\源文件\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Codes\Src\Functions\BtdcMarketPoller.cpp">
+      <Filter>CommonCodes\源文件\Functions-L1\Platform\BtcTradeDotCom</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Codes\Src\Functions\BtdcPlatform.cpp">
+      <Filter>CommonCodes\源文件\Functions-L1\Platform\BtcTradeDotCom</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Codes\Src\Functions\OcdcMarketPoller.cpp">
+      <Filter>CommonCodes\源文件\Functions-L1\Platform\OkCoinDotCn</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Codes\Src\Functions\OcdcPlatform.cpp">
+      <Filter>CommonCodes\源文件\Functions-L1\Platform\OkCoinDotCn</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Codes\Src\Functions\BtdcNonceHelper.cpp">
+      <Filter>CommonCodes\源文件\Functions-L1\Platform\BtcTradeDotCom</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\UtEntity.cpp">
+      <Filter>源文件\UnitTest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Codes\Src\Functions\PlatformBase.cpp">
+      <Filter>CommonCodes\源文件\Functions-L1\Platform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Codes\Src\Functions\MarketPollerBase.cpp">
+      <Filter>CommonCodes\源文件\Functions-L1\Platform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Codes\Src\Functions\CurlOutputHandler.cpp">
+      <Filter>CommonCodes\源文件\Functions-L1\Miscellaneous</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Codes\Src\Functions\LogHelper.cpp">
+      <Filter>CommonCodes\源文件\Functions-L1\Miscellaneous</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Codes\Src\Functions\TableIndexHelper.cpp">
+      <Filter>CommonCodes\源文件\Functions-L1\Miscellaneous</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Codes\Src\Functions\HedgeRobot.cpp">
+      <Filter>CommonCodes\源文件\Functions-L2\HedgeRobot</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Codes\Src\Functions\HrAccGrpAlgorithm.cpp">
+      <Filter>CommonCodes\源文件\Functions-L2\HedgeRobot</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Codes\Src\Functions\DbgdcMarketPoller.cpp">
+      <Filter>CommonCodes\源文件\Functions-L1\Platform\DebugDotCom</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Codes\Src\Functions\DbgdcPlatform.cpp">
+      <Filter>CommonCodes\源文件\Functions-L1\Platform\DebugDotCom</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\UtMemberHelper.cpp">
+      <Filter>源文件\UnitTest</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\UtEntities-odb.cpp">
+      <Filter>源文件\Foundation</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Ut1v1SharedPktEntity.cpp">
+      <Filter>源文件\Foundation</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Ut1v1LazySharedPktEntity.cpp">
+      <Filter>源文件\Foundation</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Ut1v1WeakFktEntity.cpp">
+      <Filter>源文件\Foundation</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Ut1v1SharedFktEntity.cpp">
+      <Filter>源文件\Foundation</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Ut1v1WeakPktEntity.cpp">
+      <Filter>源文件\Foundation</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Ut1vNSharedPktEntity.cpp">
+      <Filter>源文件\Foundation</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Ut1vNWeakFkt1Entity.cpp">
+      <Filter>源文件\Foundation</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Ut1vNLazySharedPktEntity.cpp">
+      <Filter>源文件\Foundation</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Ut1vNWeakFkt2Entity.cpp">
+      <Filter>源文件\Foundation</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Ut1vNWeakPkt1Entity.cpp">
+      <Filter>源文件\Foundation</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Ut1vNSharedFktEntity.cpp">
+      <Filter>源文件\Foundation</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Ut1vNLazySharedFktEntity.cpp">
+      <Filter>源文件\Foundation</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\Ut1vNWeakPkt2Entity.cpp">
+      <Filter>源文件\Foundation</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\UtHrAccGrp.cpp">
+      <Filter>源文件\UnitTest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Codes\Src\Functions\HrAccGrp.cpp">
+      <Filter>CommonCodes\源文件\Functions-L2\HedgeRobot</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Codes\Src\Functions\XmlWrapper.cpp">
+      <Filter>CommonCodes\源文件\Functions-L1\Miscellaneous</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Codes\Src\Functions\EnumHelper.cpp">
+      <Filter>CommonCodes\源文件\Functions-L1\Miscellaneous</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\UtBtdcPlatform.cpp">
+      <Filter>源文件\UnitTest</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\UtOcdcPlatform.cpp">
+      <Filter>源文件\UnitTest</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\UtController.cpp">
+      <Filter>源文件\UnitTest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Codes\Src\Functions\OcdcCmdString.cpp">
+      <Filter>CommonCodes\源文件\Functions-L1\Platform\OkCoinDotCn</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Codes\Src\Foundation\ResultCode.cpp">
+      <Filter>CommonCodes\源文件\Foundation</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\PriceHelper.cpp">
+      <Filter>源文件\Foundation</Filter>
+    </ClCompile>
+    <ClCompile Include="Codes\UtMiscellaneous.cpp">
+      <Filter>源文件\UnitTest</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Codes\Include\Entity\CompileOdbHeader.cmd">
+      <Filter>CommonCodes\头文件\Entity</Filter>
+    </None>
+    <None Include="..\Codes\Include\Entity\CreateTable.cmd">
+      <Filter>CommonCodes\头文件\Entity</Filter>
+    </None>
+    <None Include="..\Codes\Include\Entity\Entities-odb.ixx">
+      <Filter>CommonCodes\头文件\Entity\Entities</Filter>
+    </None>
+    <None Include="..\Codes\Include\Entity\Entities-odb.sql">
+      <Filter>CommonCodes\头文件\Entity\Entities</Filter>
+    </None>
+    <None Include="log4cplus.properties">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+</Project>

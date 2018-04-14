@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{EABF6238-25C8-458D-B82F-9DB8A4F4FDAF}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>VcUnitTestProject</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>NotSet</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>UnitTestMode;WIN32;_DEBUG;_CONSOLE;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>.;.\Codes;..\Codes;$(CLibrariesHome)\include;$(MYSQL_CONNECTOR_HOME)\include</AdditionalIncludeDirectories>
+      <DisableSpecificWarnings>4068</DisableSpecificWarnings>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>$(CLibrariesHome)\lib;$(MYSQL_CONNECTOR_HOME)\lib</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Codes\Include\Entity\Entities-odb.h" />
+    <ClInclude Include="..\Codes\Include\Entity\Entities.h" />
+    <ClInclude Include="..\Codes\Include\Entity\EntityQueryType.h" />
+    <ClInclude Include="..\Codes\Include\Entity\MemberHelper.h" />
+    <ClInclude Include="..\Codes\Include\Foundation\Md5HmacSha256.h" />
+    <ClInclude Include="..\Codes\Include\Foundation\ResultCode.h" />
+    <ClInclude Include="..\Codes\Include\Foundation\ClassFactories.h" />
+    <ClInclude Include="..\Codes\Include\Foundation\ContainerBase.h" />
+    <ClInclude Include="..\Codes\Include\Foundation\Database.h" />
+    <ClInclude Include="..\Codes\Include\Foundation\Debug.h" />
+    <ClInclude Include="..\Codes\Include\Foundation\StateMachine.h" />
+    <ClInclude Include="..\Codes\Include\Foundation\SystemInclude.h" />
+    <ClInclude Include="..\Codes\Include\Foundation\XmlHelper.h" />
+    <ClInclude Include="..\Codes\Include\Functions\ControllerInterface.h" />
+    <ClInclude Include="..\Codes\Include\Functions\EnumHelperInterface.h" />
+    <ClInclude Include="..\Codes\Include\Functions\HrAccGrpInterface.h" />
+    <ClInclude Include="..\Codes\Include\Functions\LogHelperInterface.h" />
+    <ClInclude Include="..\Codes\Include\Functions\MarketPollerInterface.h" />
+    <ClInclude Include="..\Codes\Include\Functions\PlatformInterface.h" />
+    <ClInclude Include="..\Codes\Include\Functions\RobotInterface.h" />
+    <ClInclude Include="..\Codes\Include\Functions\TableIndexHelperInterface.h" />
+    <ClInclude Include="..\Codes\Include\Functions\XmlWrapperInterface.h" />
+    <ClInclude Include="..\Codes\Include\Module\Module.h" />
+    <ClInclude Include="..\Codes\Include\Type\BaseType.h" />
+    <ClInclude Include="..\Codes\Src\Functions\BtdcMarketPoller.h" />
+    <ClInclude Include="..\Codes\Src\Functions\BtdcNonceHelper.h" />
+    <ClInclude Include="..\Codes\Src\Functions\BtdcPlatform.h" />
+    <ClInclude Include="..\Codes\Src\Functions\Controller.h" />
+    <ClInclude Include="..\Codes\Src\Functions\CurlOutputHandler.h" />
+    <ClInclude Include="..\Codes\Src\Functions\DbgdcMarketPoller.h" />
+    <ClInclude Include="..\Codes\Src\Functions\DbgdcPlatform.h" />
+    <ClInclude Include="..\Codes\Src\Functions\EnumHelper.h" />
+    <ClInclude Include="..\Codes\Src\Functions\HedgeRobot.h" />
+    <ClInclude Include="..\Codes\Src\Functions\HrAccGrp.h" />
+    <ClInclude Include="..\Codes\Src\Functions\HrAccGrpAlgorithm.h" />
+    <ClInclude Include="..\Codes\Src\Functions\LogHelper.h" />
+    <ClInclude Include="..\Codes\Src\Functions\MarketPollerBase.h" />
+    <ClInclude Include="..\Codes\Src\Functions\OcdcCmdString.h" />
+    <ClInclude Include="..\Codes\Src\Functions\OcdcMarketPoller.h" />
+    <ClInclude Include="..\Codes\Src\Functions\OcdcPlatform.h" />
+    <ClInclude Include="..\Codes\Src\Functions\PlatformBase.h" />
+    <ClInclude Include="..\Codes\Src\Functions\TableIndexHelper.h" />
+    <ClInclude Include="..\Codes\Src\Functions\XmlWrapper.h" />
+    <ClInclude Include="..\Codes\Version.h" />
+    <ClInclude Include="Codes\PriceHelper.h" />
+    <ClInclude Include="Codes\PriceHelperInterface.h" />
+    <ClInclude Include="Codes\UtBtdcPlatform.h" />
+    <ClInclude Include="Codes\UtController.h" />
+    <ClInclude Include="Codes\UtEntities.h" />
+    <ClInclude Include="Codes\UtEntity.h" />
+    <ClInclude Include="Codes\UtEntityQueryType.h" />
+    <ClInclude Include="Codes\UtHrAccGrp.h" />
+    <ClInclude Include="Codes\UtMemberHelper.h" />
+    <ClInclude Include="Codes\UtMiscellaneous.h" />
+    <ClInclude Include="Codes\UtModule.h" />
+    <ClInclude Include="Codes\UtOcdcPlatform.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Codes\Include\Entity\Entities-odb.cpp" />
+    <ClCompile Include="..\Codes\Src\Entity\Entities.cpp" />
+    <ClCompile Include="..\Codes\Src\Foundation\Debug.cpp" />
+    <ClCompile Include="..\Codes\Src\Foundation\Md5HmacSha256.cpp" />
+    <ClCompile Include="..\Codes\Src\Foundation\ResultCode.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\BtdcMarketPoller.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\BtdcNonceHelper.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\BtdcPlatform.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\Controller.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\CurlOutputHandler.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\DbgdcMarketPoller.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\DbgdcPlatform.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\EnumHelper.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\HedgeRobot.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\HrAccGrp.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\HrAccGrpAlgorithm.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\LogHelper.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\MarketPollerBase.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\OcdcMarketPoller.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\OcdcPlatform.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\PlatformBase.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\TableIndexHelper.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\XmlWrapper.cpp" />
+    <ClCompile Include="..\Codes\Src\Functions\OcdcCmdString.cpp" />
+    <ClCompile Include="Codes\Main.cpp" />
+    <ClCompile Include="Codes\PriceHelper.cpp" />
+    <ClCompile Include="Codes\Ut1v1LazySharedPktEntity.cpp" />
+    <ClCompile Include="Codes\Ut1v1SharedFktEntity.cpp" />
+    <ClCompile Include="Codes\Ut1v1SharedPktEntity.cpp" />
+    <ClCompile Include="Codes\Ut1v1WeakFktEntity.cpp" />
+    <ClCompile Include="Codes\Ut1v1WeakPktEntity.cpp" />
+    <ClCompile Include="Codes\Ut1vNLazySharedFktEntity.cpp" />
+    <ClCompile Include="Codes\Ut1vNLazySharedPktEntity.cpp" />
+    <ClCompile Include="Codes\Ut1vNSharedFktEntity.cpp" />
+    <ClCompile Include="Codes\Ut1vNSharedPktEntity.cpp" />
+    <ClCompile Include="Codes\Ut1vNWeakFkt1Entity.cpp" />
+    <ClCompile Include="Codes\Ut1vNWeakFkt2Entity.cpp" />
+    <ClCompile Include="Codes\Ut1vNWeakPkt1Entity.cpp" />
+    <ClCompile Include="Codes\Ut1vNWeakPkt2Entity.cpp" />
+    <ClCompile Include="Codes\UtBtdcPlatform.cpp" />
+    <ClCompile Include="Codes\UtController.cpp" />
+    <ClCompile Include="Codes\UtEntities-odb.cpp" />
+    <ClCompile Include="Codes\UtEntity.cpp" />
+    <ClCompile Include="Codes\UtHrAccGrp.cpp" />
+    <ClCompile Include="Codes\UtMemberHelper.cpp" />
+    <ClCompile Include="Codes\UtMiscellaneous.cpp" />
+    <ClCompile Include="Codes\UtOcdcPlatform.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Codes\Include\Entity\CompileOdbHeader.cmd">
+      <FileType>Document</FileType>
+    </None>
+    <None Include="..\Codes\Include\Entity\CreateTable.cmd">
+      <FileType>Document</FileType>
+    </None>
+    <None Include="..\Codes\Include\Entity\Entities-odb.ixx">
+      <FileType>Document</FileType>
+    </None>
+    <None Include="..\Codes\Include\Entity\Entities-odb.sql">
+      <FileType>Document</FileType>
+    </None>
+    <None Include="log4cplus.properties" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
